@@ -1,4 +1,4 @@
-#Joao,Pereira,40,11122233344
-BancoX,12345678000199,1
-1,3000.00,1234,10.00
-2,500.00,5678,0.0100,3,2
+tipo,cpf,nro_banco,numero,saldo,senha,taxas_rendimento,saques_mensais,saques_restantes
+corrente,11122233344,1,1,3000.0,1234,10.0
+corrente,03620769010,1,101010,990.0,1234,10.0
+poupanca,03620769010,1,101010,10650.0,1234,10.0,3,1

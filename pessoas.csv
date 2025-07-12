@@ -1,3 +1,5 @@
-#Lucas,Silva,30,12345678900
-#Maria,Souza,25,98765432100
-#Joao,Pereira,40,11122233344
+nome,sobrenome,idade,cpf,nro_banco
+Lucas,Silva,30,12345678900,1
+Maria,Souza,25,98765432100,1
+Joao,Pereira,40,11122233344,1
+Lucas,Zampronio,21,03620769010,1
